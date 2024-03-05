@@ -1,0 +1,7 @@
+git branch 
+git commit
+git add
+git ignore
+
+git workflow
+git basic command
