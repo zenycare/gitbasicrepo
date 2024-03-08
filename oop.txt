@@ -9,6 +9,5 @@ Tham chiếu this: không cần khai báo nó đại diện cho cả lớp, dùn
 Constructor:Có 3 điểm db:
 -tên hàm trùng tên lớp	
 -không có kiểu trả về
-- đứng đằng sau new để tạo ra đối tượng
-//something1.......
-//something2..
+- đứng đằng sau new để tạo ra đối tượn
+public co the dung trong hoac ngoai lop
