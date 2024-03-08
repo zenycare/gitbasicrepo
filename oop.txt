@@ -5,7 +5,6 @@ Trửu tượng hóa: chọn đúng những thuộc tính hành vi phù hợp, c
 
 
 
-
 Tham chiếu this: không cần khai báo nó đại diện cho cả lớp, dùng để gọi hàm hoặc thuộc tính bên trong lớp đó 
 Constructor:Có 3 điểm db:
 -tên hàm trùng tên lớp	
