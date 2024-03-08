@@ -11,3 +11,4 @@ Constructor:Có 3 điểm db:
 -không có kiểu trả về
 - đứng đằng sau new để tạo ra đối tượn
 public co the dung trong hoac ngoai lop
+neu phia truoc khong viet gi thi mac dinh la default
