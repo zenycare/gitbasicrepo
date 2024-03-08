@@ -1,5 +1,5 @@
-Lớp: là những đối tượng cùng loại ( nói cách dễ hiểu là khuôn bánh)
-Dối tượng: là những thể hiện của lớp( nói cách khác là cái bánh) 
+Lớp: là những đối tượng cùng loại 
+Dối tượng: là những thể hiện của lớp
 Package: là những lớp cùng loại 
 Trửu tượng hóa: chọn đúng những thuộc tính hành vi phù hợp, cần thiết cho bài toán
 Hành vì và thuộc tính gắn liền với đối tượng cụ thể
