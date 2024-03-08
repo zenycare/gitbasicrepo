@@ -5,3 +5,5 @@ git ignore
 
 git workflow
 git basic command
+
+git resolve conflict

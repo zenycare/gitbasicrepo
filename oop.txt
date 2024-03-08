@@ -10,5 +10,5 @@ Constructor:Có 3 điểm db:
 -tên hàm trùng tên lớp	
 -không có kiểu trả về
 - đứng đằng sau new để tạo ra đối tượng
-//something3.......
-//something4..
+//something1.......
+//something2..
