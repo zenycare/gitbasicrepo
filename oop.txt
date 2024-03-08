@@ -3,6 +3,11 @@ Dối tượng: là những thể hiện của lớp
 Package: là những lớp cùng loại 
 Trửu tượng hóa: chọn đúng những thuộc tính hành vi phù hợp, cần thiết cho bài toán
 
+<<<<<<< HEAD
+=======
+/////////////////////
+
+>>>>>>> dev_giang_4
 Tham chiếu this: không cần khai báo nó đại diện cho cả lớp, dùng để gọi hàm hoặc thuộc tính bên trong lớp đó 
 Constructor:Có 3 điểm db:
 -tên hàm trùng tên lớp	
